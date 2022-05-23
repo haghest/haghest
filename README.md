@@ -28,4 +28,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/haghest"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="haghest" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haghest&show_icons=true&locale=en" alt="haghest" /></p>
+<h3 align="left">Now Playing:</h3>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=haghest&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=haghest&redirect=true)
