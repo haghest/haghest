@@ -15,7 +15,3 @@ Just moved from Graphic Designer to be a Frontend Developer
 <a href='https://dribbble.com/haghest' target='_blank'><img src='https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white'></a>
 <a href='https://linkedin.com/in/haghest' target='_blank'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 ![Visitor](https://komarev.com/ghpvc/?username=haghest&style=for-the-badge)
-
-## Recently Played
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=haghest&width=1000)
-
