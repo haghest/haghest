@@ -1,5 +1,5 @@
 ### I'm Haghest 👋
-Just moved from Graphic Designer to be a Frontend Developer
+masi belajar bwangg
 
 - 💻 https://haghest.my.id/
 - ☕ https://buymeacoffee.com/haghest
