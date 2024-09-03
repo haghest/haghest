@@ -3,11 +3,11 @@ masi belajar bwangg
 
 - 💻 https://haghest.my.id/
 - ☕ https://buymeacoffee.com/haghest
-- 🚀 https://links.haghest.my.id
+- 🚀 https://links.haga.my.id
 - 📧 hi@haghest.my.id
 
 ## Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,ps,pr,tailwind,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,vercel,netlify,vscode,figma,tailwind,ps,pr,ae,blender?theme=light)](https://skillicons.dev)
 
 ## Connect with me
 <a href='https://twitter.com/hagdev' target='_blank'><img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white'></a>
