@@ -2,7 +2,6 @@
 masi belajar bwangg
 
 - 💻 https://haghest.my.id/
-- ☕ https://buymeacoffee.com/haghest
 - 🚀 https://links.haga.my.id
 - 📧 hi@haghest.my.id
 
