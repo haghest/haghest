@@ -1,5 +1,5 @@
-### I'm Haghest 👋
-masi belajar bwangg
+### Hi 👋
+![Alt text](/github.jpg)
 
 - 💻 https://haghest.my.id/
 - 🚀 https://links.haga.my.id
